@@ -10,7 +10,7 @@ Input all your details and select the following option (it will be 12 euros): **
 
 Input all your details and select **"Trabajador por cuenta ajena"**
 * Passport + Photocopy
-* Work contract photocopy - You may also bring the employment history as well, known as [**vida laboral**] (https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes/Informes+sobre+tu+situacion+laboral/Informe+de+tu+vida+laboral)
+* Work contract photocopy - You may also bring the employment history as well, known as [**vida laboral**](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes/Informes+sobre+tu+situacion+laboral/Informe+de+tu+vida+laboral)
 
 # 2/ Appointment
 When you have everything ready, take an appointment as otherwise they won't let you pass. You can book it [**here**](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus).
