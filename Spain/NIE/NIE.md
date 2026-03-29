@@ -1,5 +1,6 @@
 If you arrived to Spain, you will need to have a NIE for all administrative interactions.
 
+# 1/ Documents
 As UE citizen and working in Spain, that what you will need if you are based in Madrid community (documents needed may be different for a different status or community):
 * [**Modelo 790**](https://sede.policia.gob.es/Tasa790_012/) (printed in different pages)
 
@@ -11,9 +12,8 @@ Input all your details and select **"Trabajador por cuenta ajena"**
 * Passport + Photocopy
 * Work contract photocopy - You may also bring the employment history as well, known as [**vida laboral**] (https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes/Informes+sobre+tu+situacion+laboral/Informe+de+tu+vida+laboral)
 
-When you have everything ready, take an apointment as otherwise they won't let you pass.
-
-You can book it [**here**](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus).
+# 2/ Appointment
+When you have everything ready, take an appointment as otherwise they won't let you pass. You can book it [**here**](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus).
 
 Select the following options to book the right place and procedure:
 * 1. Acceder al procedimiento
