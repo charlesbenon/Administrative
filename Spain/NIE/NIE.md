@@ -4,7 +4,7 @@ If you arrived to Spain, you will need to have a NIE for all administrative inte
 As UE citizen and working in Spain, that what you will need if you are based in Madrid community (documents needed may be different for a different status or community):
 * [**Modelo 790**](https://sede.policia.gob.es/Tasa790_012/) (printed in different pages)
 
-Input all your details and select the following option (it will be 12 euros): **.TIE de residencia temporal de familiares de personas con nacionalidad española, Certificado de registro de residente comunitario o TIE de familiar de un ciudadano de la Unión y TIE asociada al Acuerdo de Retirada de ciudadanos británicos y sus familiares (BREXIT).**
+Input all your details and select the following option (it will be 12 euros): **"TIE de residencia temporal de familiares de personas con nacionalidad española, Certificado de registro de residente comunitario o TIE de familiar de un ciudadano de la Unión y TIE asociada al Acuerdo de Retirada de ciudadanos británicos y sus familiares (BREXIT)"**
 * Pay the tax using the Modelo 790 (you can do it in most of the banks using the barcode - make sure to keep the receipt)
 * [**Certificado EX-18**](https://www.inclusion.gob.es/documents/410169/2156469/18-Certificado_residencia_comunitaria.pdf)
 
