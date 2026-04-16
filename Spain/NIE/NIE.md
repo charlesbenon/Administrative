@@ -8,7 +8,7 @@ Input all your details and select the following option (it will be 12 euros): **
 * Pay the tax using the Modelo 790 (you can do it in most of the banks using the barcode - make sure to keep the receipt)
 * [**Certificado EX-18**](https://www.inclusion.gob.es/documents/410169/2156469/18-Certificado_residencia_comunitaria.pdf)
 
-Input all your details and select **"Trabajador por cuenta ajena"**
+Input all your details and select the right option for your situation in Spain.
 * Passport + Photocopy
 * Work contract photocopy - You may also bring the employment history as well, known as [**vida laboral**](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes/Informes+sobre+tu+situacion+laboral/Informe+de+tu+vida+laboral)
 
